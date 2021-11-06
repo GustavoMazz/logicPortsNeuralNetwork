@@ -17,5 +17,5 @@
     tensorboard --logdir=logs_XOR/
 ```
 
-# Estará disponível para visualização no localhost, provavelmente na porta 6006
-# obs: rode apenas um por vez
+#### Estará disponível para visualização no localhost, provavelmente na porta 6006
+##### obs: rode apenas um por vez
