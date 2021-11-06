@@ -1,17 +1,21 @@
+# Requirements
+    Python 3.7
+    Tensorflow
+    numpy   
 
 # Comando para subir o tensorboard:
 
-""" console
+```console
     tensorboard --logdir=logs_AND/
-"""
+```
 
-""" console
+```console
     tensorboard --logdir=logs_OR/
-"""
+```
 
-""" console
+```console
     tensorboard --logdir=logs_XOR/
-"""
+```
 
 # Estará disponível para visualização no localhost, provavelmente na porta 6006
 # obs: rode apenas um por vez
